@@ -7,7 +7,7 @@
  - etc.
 Also it stores results in gif format
 
-Here is how it looks:
+Here is how it looks:  
 ![gif](gifs/conway_random-grid.gif "gif")
 ![gif](gifs/alternative-rules.gif "gif")
 ![gif](gifs/pulsar.gif "gif")
